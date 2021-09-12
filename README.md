@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I am currently studying cybersecurity, ethical hacker and digital forensics. I intend to become a professional in the field of digital security.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on python projects, malicious code analysis, learning java and SQLI’m looking to collaborate on python projects, malicious code analysis, learning java and SQL**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on python projects, malicious code analysis, learning java and SQLI’m looking to collaborate on python projects, malicious code analysis, learning java and SQL.**
 
 - 📫 How to reach me **pabcassio@gmail.com**
 
