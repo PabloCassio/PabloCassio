@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cassio Anchieta Lopes</h1>
 <h3 align="center">Studying Systems Analysis and Development at Centro Universitário Una.</h3>
 
-- 🔭 I’m currently working on **working on information systems infrastructure and networks.**
+- 🔭 I’m currently working on **information systems infrastructure and networks.**
 
 - 🌱 I’m currently learning **cybersecurity, ethical hacker and digital forensics. I intend to become a professional in the field of digital security.**
 
