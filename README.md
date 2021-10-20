@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pablo Cassio Anchieta Lopes</h1>
 <h3 align="center">Studying Systems Analysis and Development at Centro Universitário Una.</h3>
 
-- 🔭 I’m currently working on **I am currently working on information systems infrastructure and networks.**
+- 🔭 I’m currently working on **working on information systems infrastructure and networks.**
 
-- 🌱 I’m currently learning **I am currently studying cybersecurity, ethical hacker and digital forensics. I intend to become a professional in the field of digital security.**
+- 🌱 I’m currently learning **cybersecurity, ethical hacker and digital forensics. I intend to become a professional in the field of digital security.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on python projects, malicious code analysis, learning java and SQL**
+- 👯 I’m looking to collaborate on **python projects, malicious code analysis, learning java and SQL**
 
 - 📫 How to reach me **pabcassio@gmail.com**
 
