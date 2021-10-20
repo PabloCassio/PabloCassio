@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pabcassio@gmail.com**
 
-- ⚡ Fun fact **I don't speak English (no Today), but I'm a professional phrase searcher.**
+- ⚡ Fun fact **I don't speak English, but I'm a professional phrase searcher.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
