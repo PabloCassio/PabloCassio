@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pabcassio@gmail.com**
 
-- ⚡ Fun fact: **I.**
+- ⚡ Fun fact: **My favorite super hero is the Spider-Man.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
