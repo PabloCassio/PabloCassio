@@ -3,12 +3,8 @@
 
 - 🔭 I’m currently working on **information systems infrastructure and networks.**
 
-- 🌱 I’m currently learning **cybersecurity, ethical hacker and digital forensics. I intend to become a professional in the field of digital security.**
-
-- 👯 I’m looking to collaborate on **python projects, malicious code analysis, learning java and SQL**
-
+- 🌱 I’m currently learning **DevOps and SRE.**
 - 📫 How to reach me **pabcassio@gmail.com**
-
 - ⚡ Fun fact: **My favorite super hero is the Spider-Man.**
 
 <h3 align="left">Connect with me:</h3>
