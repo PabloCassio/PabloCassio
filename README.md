@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cassio</h1>
 <h3 align="center">Studying Systems Analysis and Development at Centro Universitário Una.</h3>
 
-- 🔭 I’m currently working on **information systems infrastructure and networks.**
+- 🔭 I’m currently working on **information systems infrastructure and DevOps.**
 
 - 🌱 I’m currently learning **DevOps and SRE.**
 - 📫 How to reach me **pabcassio@gmail.com**
